@@ -1,0 +1,542 @@
+[
+  {
+    "id": 1,
+    "title": "Organic Wheat",
+    "category": "Grains",
+    "price": 2100,
+    "unit": "quintal",
+    "description": "Premium quality organic wheat grown without pesticides. Rich in fiber, vitamins, and minerals. Ideal for making bread, chapatis, and other bakery products. Sourced from certified organic farms.",
+    "stock": 500,
+    "origin": "Punjab"
+  },
+  {
+    "id": 2,
+    "title": "Basmati Rice",
+    "category": "Grains",
+    "price": 2000,
+    "unit": "quintal",
+    "description": "Authentic long-grain Basmati rice with aromatic fragrance. Perfect for biryani, pulao, and everyday meals. Aged for 12 months for enhanced taste and texture.",
+    "stock": 800,
+    "origin": "Haryana"
+  },
+  {
+    "id": 3,
+    "title": "Fresh Tomatoes",
+    "category": "Vegetables",
+    "price": 35,
+    "unit": "kg",
+    "description": "Farm-fresh red tomatoes, handpicked at peak ripeness. Rich in lycopene and vitamin C. Perfect for curries, salads, and sauces.",
+    "stock": 1200,
+    "origin": "Karnataka"
+  },
+  {
+    "id": 4,
+    "title": "Premium Potatoes",
+    "category": "Vegetables",
+    "price": 25,
+    "unit": "kg",
+    "description": "High-quality potatoes with smooth skin and firm texture. Versatile for frying, boiling, or roasting. Rich in potassium and vitamin B6.",
+    "stock": 2000,
+    "origin": "Uttar Pradesh"
+  },
+  {
+    "id": 5,
+    "title": "Yellow Maize",
+    "category": "Grains",
+    "price": 1850,
+    "unit": "quintal",
+    "description": "Premium quality yellow maize with high nutritional value. Used for animal feed, corn flour, and industrial purposes. Non-GMO and naturally grown.",
+    "stock": 1500,
+    "origin": "Madhya Pradesh"
+  },
+  {
+    "id": 6,
+    "title": "Red Onions",
+    "category": "Vegetables",
+    "price": 40,
+    "unit": "kg",
+    "description": "Fresh red onions with strong flavor and long shelf life. Essential ingredient for Indian cooking. Rich in antioxidants and quercetin.",
+    "stock": 1800,
+    "origin": "Maharashtra"
+  },
+  {
+    "id": 7,
+    "title": "Organic Soybean",
+    "category": "Pulses",
+    "price": 3500,
+    "unit": "quintal",
+    "description": "High-protein organic soybeans perfect for oil extraction and food processing. Rich in essential amino acids and omega-3 fatty acids.",
+    "stock": 600,
+    "origin": "Rajasthan"
+  },
+  {
+    "id": 8,
+    "title": "Pearl Barley",
+    "category": "Grains",
+    "price": 1800,
+    "unit": "quintal",
+    "description": "Nutritious pearl barley perfect for soups, stews, and salads. High in fiber and minerals. Great for health-conscious consumers.",
+    "stock": 400,
+    "origin": "Rajasthan"
+  },
+  {
+    "id": 9,
+    "title": "Green Chili",
+    "category": "Spices",
+    "price": 120,
+    "unit": "kg",
+    "description": "Fresh green chilies with medium to high heat level. Essential for Indian cuisine. Rich in vitamin C and capsaicin. Adds flavor and spice to any dish.",
+    "stock": 400,
+    "origin": "Andhra Pradesh"
+  },
+  {
+    "id": 10,
+    "title": "Fresh Coriander",
+    "category": "Herbs",
+    "price": 80,
+    "unit": "kg",
+    "description": "Aromatic fresh coriander leaves with vibrant green color. Perfect garnish and flavor enhancer. Rich in antioxidants and vitamins.",
+    "stock": 300,
+    "origin": "Gujarat"
+  },
+  {
+    "id": 11,
+    "title": "Black Mustard Seeds",
+    "category": "Spices",
+    "price": 4500,
+    "unit": "quintal",
+    "description": "Premium black mustard seeds with pungent flavor. Essential for tempering and pickling. Rich in selenium and omega-3 fatty acids.",
+    "stock": 350,
+    "origin": "Rajasthan"
+  },
+  {
+    "id": 12,
+    "title": "Fresh Ginger",
+    "category": "Spices",
+    "price": 180,
+    "unit": "kg",
+    "description": "Aromatic fresh ginger root with strong flavor. Used in cooking, teas, and traditional medicine. Anti-inflammatory and digestive properties.",
+    "stock": 600,
+    "origin": "Kerala"
+  },
+  {
+    "id": 13,
+    "title": "Garlic Bulbs",
+    "category": "Spices",
+    "price": 130,
+    "unit": "kg",
+    "description": "Premium quality garlic bulbs with strong aroma. Essential ingredient in all cuisines. Known for health benefits including immune support.",
+    "stock": 700,
+    "origin": "Madhya Pradesh"
+  },
+  {
+    "id": 14,
+    "title": "Sugarcane",
+    "category": "Cash Crops",
+    "price": 3200,
+    "unit": "quintal",
+    "description": "Fresh sugarcane stalks perfect for juice extraction and sugar production. Sweet and juicy. Rich in natural sugars and minerals.",
+    "stock": 2500,
+    "origin": "Uttar Pradesh"
+  },
+  {
+    "id": 15,
+    "title": "Red Apples",
+    "category": "Fruits",
+    "price": 120,
+    "unit": "kg",
+    "description": "Crisp and sweet red apples. Rich in fiber, vitamin C, and antioxidants. Perfect for snacking and desserts. Carefully graded for quality.",
+    "stock": 800,
+    "origin": "Himachal Pradesh"
+  },
+  {
+    "id": 16,
+    "title": "Golden Bananas",
+    "category": "Fruits",
+    "price": 50,
+    "unit": "kg",
+    "description": "Naturally ripened golden bananas with sweet taste. Rich in potassium, vitamin B6, and fiber. Perfect for direct consumption or smoothies.",
+    "stock": 900,
+    "origin": "Tamil Nadu"
+  },
+  {
+    "id": 17,
+    "title": "Alphonso Mango",
+    "category": "Fruits",
+    "price": 80,
+    "unit": "kg",
+    "description": "King of mangoes - Alphonso variety with exceptional sweetness and flavor. Rich golden pulp. Perfect for eating fresh or making desserts.",
+    "stock": 450,
+    "origin": "Maharashtra"
+  },
+  {
+    "id": 18,
+    "title": "Nagpur Oranges",
+    "category": "Fruits",
+    "price": 60,
+    "unit": "kg",
+    "description": "Juicy Nagpur oranges with perfect balance of sweet and tangy. Rich in vitamin C. Thin skin and seedless varieties available.",
+    "stock": 1000,
+    "origin": "Maharashtra"
+  },
+  {
+    "id": 19,
+    "title": "Fresh Pineapple",
+    "category": "Fruits",
+    "price": 70,
+    "unit": "kg",
+    "description": "Sweet and tangy pineapples with golden flesh. Rich in bromelain enzyme and vitamin C. Perfect for juices, smoothies, and fruit salads.",
+    "stock": 600,
+    "origin": "Kerala"
+  },
+  {
+    "id": 20,
+    "title": "Red Papaya",
+    "category": "Fruits",
+    "price": 40,
+    "unit": "kg",
+    "description": "Sweet red papaya rich in papain enzyme and vitamins. Excellent for digestion. Perfect for breakfast and fruit platters.",
+    "stock": 750,
+    "origin": "Tamil Nadu"
+  },
+  {
+    "id": 21,
+    "title": "Fresh Strawberries",
+    "category": "Fruits",
+    "price": 300,
+    "unit": "kg",
+    "description": "Premium fresh strawberries with bright red color. Sweet and aromatic. Rich in antioxidants and vitamin C. Perfect for desserts.",
+    "stock": 200,
+    "origin": "Himachal Pradesh"
+  },
+  {
+    "id": 22,
+    "title": "Blueberries",
+    "category": "Fruits",
+    "price": 500,
+    "unit": "kg",
+    "description": "Imported quality blueberries packed with antioxidants. Superfood known for brain health. Perfect for smoothies and baking.",
+    "stock": 150,
+    "origin": "Himachal Pradesh"
+  },
+  {
+    "id": 23,
+    "title": "Fresh Raspberries",
+    "category": "Fruits",
+    "price": 450,
+    "unit": "kg",
+    "description": "Delicate fresh raspberries with sweet-tart flavor. High in fiber and antioxidants. Perfect for desserts, jams, and garnishing.",
+    "stock": 120,
+    "origin": "Uttarakhand"
+  },
+  {
+    "id": 24,
+    "title": "Blackberries",
+    "category": "Fruits",
+    "price": 400,
+    "unit": "kg",
+    "description": "Juicy blackberries with deep purple color. Rich in vitamins C and K. Excellent for jams, pies, and fresh eating.",
+    "stock": 100,
+    "origin": "Himachal Pradesh"
+  },
+  {
+    "id": 25,
+    "title": "Green Cabbage",
+    "category": "Vegetables",
+    "price": 30,
+    "unit": "kg",
+    "description": "Fresh green cabbage with crisp leaves. Rich in fiber, vitamin C, and antioxidants. Perfect for salads, stir-fries, and soups.",
+    "stock": 700,
+    "origin": "Karnataka"
+  },
+  {
+    "id": 26,
+    "title": "Red Cabbage",
+    "category": "Vegetables",
+    "price": 35,
+    "unit": "kg",
+    "description": "Vibrant red cabbage rich in anthocyanins. Nutritious and crunchy. Ideal for salads, slaws, and sautéed dishes.",
+    "stock": 500,
+    "origin": "Karnataka"
+  },
+  {
+    "id": 27,
+    "title": "Cucumber",
+    "category": "Vegetables",
+    "price": 25,
+    "unit": "kg",
+    "description": "Fresh cucumbers with crisp texture and mild flavor. Hydrating and low-calorie. Perfect for salads and snacks.",
+    "stock": 1000,
+    "origin": "Haryana"
+  },
+  {
+    "id": 28,
+    "title": "Carrots",
+    "category": "Vegetables",
+    "price": 40,
+    "unit": "kg",
+    "description": "Bright orange carrots rich in beta-carotene. Crunchy and sweet. Ideal for salads, cooking, and juicing.",
+    "stock": 900,
+    "origin": "Madhya Pradesh"
+  },
+  {
+    "id": 29,
+    "title": "Beetroot",
+    "category": "Vegetables",
+    "price": 35,
+    "unit": "kg",
+    "description": "Fresh red beetroot packed with nutrients. Sweet earthy flavor. Great for salads, juices, and cooking.",
+    "stock": 600,
+    "origin": "Uttar Pradesh"
+  },
+  {
+    "id": 30,
+    "title": "Spinach",
+    "category": "Vegetables",
+    "price": 20,
+    "unit": "kg",
+    "description": "Fresh green spinach leaves rich in iron and vitamins. Perfect for cooking, salads, and smoothies.",
+    "stock": 800,
+    "origin": "Maharashtra"
+  },
+  {
+    "id": 31,
+    "title": "Fenugreek Leaves",
+    "category": "Herbs",
+    "price": 50,
+    "unit": "kg",
+    "description": "Fresh fenugreek leaves with aromatic flavor. Rich in iron, fiber, and vitamins. Ideal for Indian curries and parathas.",
+    "stock": 400,
+    "origin": "Rajasthan"
+  },
+  {
+    "id": 32,
+    "title": "Mint Leaves",
+    "category": "Herbs",
+    "price": 60,
+    "unit": "kg",
+    "description": "Aromatic fresh mint leaves. Perfect for chutneys, beverages, and garnishing. Rich in antioxidants and refreshing flavor.",
+    "stock": 350,
+    "origin": "Punjab"
+  },
+  {
+    "id": 33,
+    "title": "Basil Leaves",
+    "category": "Herbs",
+    "price": 70,
+    "unit": "kg",
+    "description": "Fresh basil leaves with strong aroma. Ideal for Italian cooking and garnishing. Rich in essential oils and nutrients.",
+    "stock": 300,
+    "origin": "Kerala"
+  },
+  {
+    "id": 34,
+    "title": "Cilantro",
+    "category": "Herbs",
+    "price": 50,
+    "unit": "kg",
+    "description": "Fresh cilantro leaves with vibrant green color. Perfect for salads, curries, and garnishing. Rich in antioxidants and vitamins.",
+    "stock": 450,
+    "origin": "Gujarat"
+  },
+  {
+    "id": 35,
+    "title": "Chickpeas",
+    "category": "Pulses",
+    "price": 4000,
+    "unit": "quintal",
+    "description": "High-quality chickpeas for cooking and flour preparation. Rich in protein, fiber, and essential minerals. Ideal for curries, salads, and snacks.",
+    "stock": 700,
+    "origin": "Madhya Pradesh"
+  },
+  {
+    "id": 36,
+    "title": "Red Kidney Beans",
+    "category": "Pulses",
+    "price": 4500,
+    "unit": "quintal",
+    "description": "Premium red kidney beans rich in protein and fiber. Perfect for curries, soups, and salads. Carefully cleaned and sorted.",
+    "stock": 600,
+    "origin": "Rajasthan"
+  },
+  {
+    "id": 37,
+    "title": "Green Moong Beans",
+    "category": "Pulses",
+    "price": 4200,
+    "unit": "quintal",
+    "description": "Fresh green moong beans with high nutritional value. Rich in protein and vitamins. Ideal for sprouting, curries, and salads.",
+    "stock": 550,
+    "origin": "Uttar Pradesh"
+  },
+  {
+    "id": 38,
+    "title": "Lentils",
+    "category": "Pulses",
+    "price": 3800,
+    "unit": "quintal",
+    "description": "High-quality lentils for cooking and flour preparation. Rich in protein, fiber, and essential nutrients. Perfect for soups, curries, and stews.",
+    "stock": 800,
+    "origin": "Madhya Pradesh"
+  },
+  {
+    "id": 39,
+    "title": "Turmeric Powder",
+    "category": "Spices",
+    "price": 5000,
+    "unit": "quintal",
+    "description": "Premium turmeric powder with high curcumin content. Bright yellow color, aromatic flavor. Used for cooking and medicinal purposes.",
+    "stock": 400,
+    "origin": "Tamil Nadu"
+  },
+  {
+    "id": 40,
+    "title": "Cumin Seeds",
+    "category": "Spices",
+    "price": 4700,
+    "unit": "quintal",
+    "description": "High-quality cumin seeds with strong aroma. Essential for Indian and Middle Eastern cooking. Rich in antioxidants and minerals.",
+    "stock": 500,
+    "origin": "Rajasthan"
+  },
+  {
+    "id": 41,
+    "title": "Coriander Seeds",
+    "category": "Spices",
+    "price": 4300,
+    "unit": "quintal",
+    "description": "Fresh coriander seeds with aromatic flavor. Essential for curries, spice blends, and pickling. Rich in antioxidants and essential oils.",
+    "stock": 450,
+    "origin": "Madhya Pradesh"
+  },
+  {
+    "id": 42,
+    "title": "Black Pepper",
+    "category": "Spices",
+    "price": 6000,
+    "unit": "quintal",
+    "description": "Premium black pepper with pungent flavor. Essential for seasoning and spice blends. Rich in antioxidants and aroma.",
+    "stock": 300,
+    "origin": "Kerala"
+  },
+  {
+    "id": 43,
+    "title": "Cloves",
+    "category": "Spices",
+    "price": 9000,
+    "unit": "quintal",
+    "description": "High-quality cloves with strong aroma. Used in cooking, baking, and medicinal purposes. Rich in eugenol and antioxidants.",
+    "stock": 200,
+    "origin": "Kerala"
+  },
+  {
+    "id": 44,
+    "title": "Cinnamon Sticks",
+    "category": "Spices",
+    "price": 8500,
+    "unit": "quintal",
+    "description": "Aromatic cinnamon sticks with sweet, warm flavor. Used for cooking, desserts, and medicinal purposes. Rich in antioxidants.",
+    "stock": 250,
+    "origin": "Sri Lanka"
+  },
+  {
+    "id": 45,
+    "title": "Cardamom",
+    "category": "Spices",
+    "price": 12000,
+    "unit": "quintal",
+    "description": "Premium green cardamom pods with strong fragrance. Used in cooking, desserts, and beverages. Rich in antioxidants and essential oils.",
+    "stock": 150,
+    "origin": "Kerala"
+  },
+  {
+    "id": 46,
+    "title": "Sunflower Oil",
+    "category": "Oils",
+    "price": 120,
+    "unit": "liter",
+    "description": "Pure sunflower oil with light taste. High in vitamin E and low in saturated fats. Suitable for cooking, frying, and salads.",
+    "stock": 2000,
+    "origin": "Maharashtra"
+  },
+  {
+    "id": 47,
+    "title": "Mustard Oil",
+    "category": "Oils",
+    "price": 150,
+    "unit": "liter",
+    "description": "Cold-pressed mustard oil with pungent aroma. High in omega-3 fatty acids. Ideal for cooking and pickling.",
+    "stock": 1500,
+    "origin": "Rajasthan"
+  },
+  {
+    "id": 48,
+    "title": "Groundnut Oil",
+    "category": "Oils",
+    "price": 140,
+    "unit": "liter",
+    "description": "Pure groundnut oil with mild flavor. Rich in vitamin E and healthy fats. Perfect for cooking, frying, and salad dressing.",
+    "stock": 1800,
+    "origin": "Andhra Pradesh"
+  },
+  {
+    "id": 49,
+    "title": "Coconut Oil",
+    "category": "Oils",
+    "price": 200,
+    "unit": "liter",
+    "description": "Cold-pressed virgin coconut oil with rich aroma. Ideal for cooking, hair care, and skin care. Rich in lauric acid and antioxidants.",
+    "stock": 1000,
+    "origin": "Kerala"
+  },
+  {
+    "id": 50,
+    "title": "Refined Soybean Oil",
+    "category": "Oils",
+    "price": 130,
+    "unit": "liter",
+    "description": "Refined soybean oil suitable for all cooking purposes. High in polyunsaturated fats. Neutral taste for versatile use.",
+    "stock": 2200,
+    "origin": "Rajasthan"
+  },
+  {
+    "id": 51,
+    "title": "Jaggery",
+    "category": "Sweeteners",
+    "price": 80,
+    "unit": "kg",
+    "description": "Pure organic jaggery made from sugarcane. Rich in minerals and antioxidants. Ideal for desserts, beverages, and cooking.",
+    "stock": 1000,
+    "origin": "Maharashtra"
+  },
+  {
+    "id": 52,
+    "title": "Honey",
+    "category": "Sweeteners",
+    "price": 250,
+    "unit": "kg",
+    "description": "Pure natural honey with sweet flavor. Rich in antioxidants and enzymes. Perfect for health drinks, desserts, and cooking.",
+    "stock": 800,
+    "origin": "Karnataka"
+  },
+  {
+    "id": 53,
+    "title": "Brown Sugar",
+    "category": "Sweeteners",
+    "price": 90,
+    "unit": "kg",
+    "description": "Organic brown sugar with natural molasses. Sweet and aromatic. Suitable for baking, beverages, and cooking.",
+    "stock": 700,
+    "origin": "Tamil Nadu"
+  },
+  {
+    "id": 54,
+    "title": "Stevia Powder",
+    "category": "Sweeteners",
+    "price": 1200,
+    "unit": "kg",
+    "description": "Natural stevia powder, zero-calorie sweetener. Ideal for health-conscious consumers. Perfect for beverages, baking, and cooking.",
+    "stock": 300,
+    "origin": "Kerala"
+  }
+]
