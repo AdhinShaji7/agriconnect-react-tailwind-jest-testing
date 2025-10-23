@@ -13,4 +13,4 @@
 
 ## Deployment
 - Final version pushed to GitHub:
-  [GitHub Repository](https://github.com/yourusername/villageconnect)
+  [GitHub Repository](https://github.com/AdhinShaji7/agriconnect-react-tailwind-jest-testing)
